@@ -25,7 +25,7 @@ int main() {
   double pib_percapta1;
   float densidade_populacional1;
   int pontos_turisticos_carta1;
-  float superpoder_carta1;
+  double superpoder_carta1;
 
   // carta2
   char estado_carta2;
